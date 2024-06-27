@@ -1,0 +1,19 @@
+* ⁠{
+    font-family: "Playwrite NZ", cursive;
+}
+
+.btn:hover {
+    transform: scale(1.5);
+    box-shadow: 0 2px 5px;
+    background-color: #d63384;
+}
+
+body {
+    overflow: auto;
+}
+
+p {
+    color: #d63384;
+    background-color: rgb(159, 203, 247);
+    font-size: 6px;
+}
